@@ -1,6 +1,6 @@
 {
-    "name": "Zeke Token",
-    "symbol": "ZEKE",
-    "description": "Some random token",
+    "name": "Test Token",
+    "symbol": "TEST",
+    "description": "Just a test token!",
     "image": "https://raw.githubusercontent.com/karlo292/zeke-uri/refs/heads/main/img.jpg"
   }
